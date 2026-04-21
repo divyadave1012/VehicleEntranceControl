@@ -16,7 +16,7 @@ VALID_BLOCKS = ["Block-A", "Block-B", "Block-C", "Block-D", "Block-E"]
 TIMEOUT = 3
 SCAN_INTERVAL = 0.1
 MAX_RETRIES = 3
-LOG_FILE = "qr_scan_log2.csv"
+LOG_FILE = "qr_scan_log.csv" #Update with your csv file name
 
 class QRScanner:
     def __init__(self):
