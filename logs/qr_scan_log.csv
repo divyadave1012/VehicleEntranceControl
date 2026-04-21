@@ -1,0 +1,29 @@
+timestamp,qr_data,status,control_sent,control_status
+2025-07-10 12:22:16,Block-A,Valid Block,Yes,Success
+2025-07-10 12:22:16,None,No QR,Yes,Failed
+2025-07-10 12:22:19,Block-A,Valid Block,Yes,Success
+2025-07-10 12:22:22,None,No QR,Yes,Failed
+2025-07-10 12:22:23,Block-B,Valid Block,Yes,Success
+2025-07-10 12:22:24,None,No QR,Yes,Failed
+2025-07-10 12:22:26,Block-B,Valid Block,Yes,Success
+2025-07-10 12:22:29,None,No QR,Yes,Failed
+2025-07-10 12:22:41,Block-D,Valid Block,Yes,Success
+2025-07-10 12:22:42,None,No QR,Yes,Failed
+2025-07-10 12:22:43,Block-D,Valid Block,Yes,Success
+2025-07-10 12:22:47,None,No QR,Yes,Failed
+2025-07-10 12:22:53,Block-E,Valid Block,Yes,Success
+2025-07-10 12:22:55,None,No QR,Yes,Failed
+2025-07-10 12:22:55,Block-E,Valid Block,Yes,Success
+2025-07-10 12:22:56,None,No QR,Yes,Failed
+2025-07-10 12:23:10,Authorized,Unauthorized,Yes,Success
+2025-07-10 12:23:12,None,No QR,Yes,Failed
+2025-07-10 12:23:13,Unauthorized,Unauthorized,Yes,Success
+2025-07-10 12:23:15,None,No QR,Yes,Failed
+2025-07-10 12:24:50,Unauthorized,Unauthorized,Yes,Success
+2025-07-10 12:24:51,None,No QR,Yes,Failed
+2025-07-10 12:24:54,Authorized,Unauthorized,Yes,Success
+2025-07-10 12:24:55,None,No QR,Yes,Failed
+2025-07-10 12:24:56,Block-A,Valid Block,Yes,Success
+2025-07-10 12:24:57,None,No QR,Yes,Failed
+2025-07-10 12:25:07,Block-B,Valid Block,Yes,Success
+2025-07-10 12:25:09,None,No QR,Yes,Failed
